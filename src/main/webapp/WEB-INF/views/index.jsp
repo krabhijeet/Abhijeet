@@ -45,14 +45,15 @@
               <img src="${tweetSvg}" alt="Tweet"/>
           </a>
         <div class="text">
-          <h1>Congratulations!</h1>
-          <h2>You just created a Java Spring web application.</h2>
+          <h1>Hello Beta</h1>
+          <h2>This is First AWS Application</h2>
+          <h3>You are Very Lucky for me</h3>
         </div>
       </div>
     </div>
 
     <footer>
-      <p class="footer-contents">Designed and developed with <a href="https://aws.amazon.com/careers/devtools-jobs/">♥</a> in Seattle.</p>
+      <p class="footer-contents">Designed and developed by Abhijeet.</p>
     </footer>
 
     <script src={$setBackgroundJs}"></script>
