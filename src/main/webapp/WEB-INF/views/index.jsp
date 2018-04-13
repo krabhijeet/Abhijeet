@@ -45,9 +45,9 @@
               <img src="${tweetSvg}" alt="Tweet"/>
           </a>
         <div class="text">
-          <h1>Hello Beta</h1>
+          <h1>Hello</h1>
           <h2>This is First AWS Application</h2>
-          <h3>You are Very Lucky for me</h3>
+          
         </div>
       </div>
     </div>
